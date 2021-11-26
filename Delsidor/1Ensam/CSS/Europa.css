@@ -1,0 +1,53 @@
+h1{
+    justify-content: center;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: xx-large;
+}
+body{
+    background-image: url("/public/images/Europa/night.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    margin: 20px;
+}
+
+.london{
+    margin: 20px;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    justify-content: space-between;
+    font-size: x-large;
+    padding:20px;
+    
+}
+.italy{
+    margin: 10px;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    justify-content: space-between;
+    font-size: x-large;
+    padding: 20px;
+}
+.greece{
+    margin: 20px;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    justify-content: space-between;
+    font-size: x-large;
+    padding: 20px;
+}
+.france{
+    margin: 10px;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    justify-content: space-between;
+    font-size: x-large;
+    padding: 20px;
+}

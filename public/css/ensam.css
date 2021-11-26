@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    justify-content: center;
+    border-style: solid;
+    padding:10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 10px;
+    border-color:black;
+    color:black;
+    cursor: pointer;
+}
+body{
+    justify-content: space-between;
+    background-image: url("/public/images/Flyg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Europa{
+    width: 25%;
+    cursor: pointer;
+    
+}
+.Asien{
+    width: 25%;
+    cursor: pointer;
+}
+.Nordamerika{
+    width: 30%;
+    cursor: pointer;
+}
+.Afrika{
+    width: 25%;
+    cursor: pointer;
+}
+.Sydamerika{
+    width: 25%;
+    cursor: pointer;
+}
+.Ocianien{
+    width: 5%;
+    cursor: pointer;
+}
+.div-container{
+    display: flex;
+    border-style: solid;
+    margin: 20px;
+    padding: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif   ;
+    border-radius: 10px;
+    border-color: black;
+    font-size: 20px;
+    font-style: italic;
+    color:black;
+}
