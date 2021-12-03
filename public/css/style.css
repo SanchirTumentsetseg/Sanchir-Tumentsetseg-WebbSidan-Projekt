@@ -8,7 +8,7 @@ h1 {
     margin: 5px;
   }
   body {
-    background-image: url("/public/images/background\ \ 1.jpg");
+    background-image: url("public/images/background\ \ 1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
   }

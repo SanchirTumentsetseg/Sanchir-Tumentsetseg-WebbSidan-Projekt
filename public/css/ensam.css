@@ -11,7 +11,7 @@ h1{
 }
 body{
     justify-content: space-between;
-    background-image: url("/public/images/Flyg.jpg");
+    background-image: url("public/images/Flyg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
